@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.editOff{
+  background-color: #eaeaea;
+  pointer-events: none;
+  color: #b5b5b5;
+
+}
